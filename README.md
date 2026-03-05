@@ -20,9 +20,3 @@ An end-to-end machine learning project that predicts medical insurance claim amo
 * **Machine Learning:** Scikit-learn, XGBoost, Joblib
 * **Web Framework:** Streamlit
 
-## How to Run the App
-
-**1. Clone the repository**
-```bash
-git clone [https://github.com/YourUsername/your-repo-name.git](https://github.com/YourUsername/your-repo-name.git)
-cd your-repo-name
